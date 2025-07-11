@@ -1,0 +1,5 @@
+lxml==6.0.0
+pdf2image==1.17.0
+pillow==11.3.0
+PyYAML==6.0.2
+six==1.17.0
